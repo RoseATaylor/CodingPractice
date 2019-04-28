@@ -1,2 +1,2 @@
 # CodingPractice
-Webpage Home
+Practice Webpage
