@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" 
+
+href="CodingPractice.css">
+        <title>Coding Practice</title>
+    
+
+</head>
+    <body>
+        <!--Header Start-->
+       <div id=header 
+
+class="section" align=center>
+           <h1>My Coding Adventure</h1>
+      
+
+     <br />
+           </div>
+           <!--Header End-->
+           
+       
+
+    
+           <!--Navigation Bar Start-->
+       <div id=navbar 
+
+class="section" align=center>
+        <nav>
+           <ul style="list-
+
+style:none;">
+            <li><a href="WhyCoding.html">Why Coding?
+
+</a></li>
+           </ul>
+        <br />
+        <hr>
+        </nav>
+        
+
+</div>
+            <!--Navigation Bar End-->
+            
+            
+       
+
+     <!--About Me Article Start-->
+        <article>
+            <h3>About 
+
+Me</h3>
+            <section>I was introduced to Basic HTML as a child, 
+
+and learned how to create my own webpages from scratch. I never really 
+
+took coding farther than that until recently. I have learned more about 
+
+HTML using various online learning tools. I am currently expanding my 
+
+list of known computer coding languages.</section>
+            
+
+<section><p>You can follow my progress here:</p></section>
+           <ul>
+ 
+
+              <li>HTML<br />
+               <progress min="0" max="100" 
+
+value="25"></progress></li>
+               <li>CSS<br />
+               
+
+<progress min="0" max="100" value="25"></progress></li>
+               
+
+<li>JavaScript<br />
+               <progress min="0" max="100" 
+
+value="0"></progress></li>
+               <li>jQuery<br />
+               
+
+<progress min="0" max="100" value="0"></progress></li>
+               
+
+<li>Python<br />
+               <progress min="0" max="100" 
+
+value="0"></progress></li>
+               <li>C++<br />
+               
+
+<progress min="0" max="100" value="0"></progress></li>
+           </ul>
+    
+
+       </article>
+           <!--About Me Article End-->
+           
+        
+
+   
+           <!--Related Links-->
+           <aside align=right>
+          
+
+     <h3>Related Links</h3>
+               <nav>
+                   <a 
+
+href="https://www.sololearn.com/">SoloLearn</a><br /><br />
+               
+
+    <a href="https://www.codecademy.com/">Codecademy</a><br /><br />
+      
+
+             <a href="https://code.org/">Code.org</a><br /><br />
+         
+
+          <a href="https://www.w3schools.com/">W3Schools Online Web 
+
+Tutorials</a>
+               </nav>
+           </aside>
+           <!--
+
+Related Links End-->
+        <br />
+        
+        <div id="image" 
+
+class="section">
+        <section align=center>
+            <img 
+
+src="https://www.faylib.org/sites/default/files/youth%20coding
+
+%20club.jpg" width="750px" border="2px">
+        </section>
+        </div>
+  
+
+      <br />
+        <br />
+        
+        
+        <!--Contact Me Start-->
+ 
+
+       <section align=center>
+            <h3>Contact Me</h3>
+            
+
+<form>
+                <p>roseanne.taylor@gmail.com</p>
+                
+
+<input placeholder="Name">
+                <br /><br />
+                
+
+<input placeholder="Message" textarea="Message" required>
+                
+
+<br /><br />
+                <button>Submit</button>
+            </form>
+    
+
+    </section>
+        <!--Contact Me End-->
+        <br />
+        
+        
+
+<!--Footer Start-->
+        <footer>
+                <p align=center>All 
+
+Rights Reserved</p>
+        </footer>
+        <!--Footer End-->
+            
+ 
+
+           
+            
+    </body>
+</html>
